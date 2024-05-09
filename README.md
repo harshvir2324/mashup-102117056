@@ -1,6 +1,6 @@
 # Mashup Generator
 <br>
-Created By Divyam :)
+Created By Harshvir :)
 <br>
 <br>
 <p align="center">
